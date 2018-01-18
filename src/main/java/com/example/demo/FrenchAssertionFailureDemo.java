@@ -35,7 +35,7 @@ public class FrenchAssertionFailureDemo implements ProblemHandling {
     SpringApplication.run(FrenchAssertionFailureDemo.class, args);
   }
 
-// Uncomment this and the assertions will succeeded  
+// Uncomment this and the assertion will succeed
 //
 //  @Override
 //  public Optional<MediaType> negotiate(final NativeWebRequest request) {
