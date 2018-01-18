@@ -65,7 +65,7 @@ public class FrenchAssertionFailureDemo implements ProblemHandling {
           @Size(
             min = 10,
             max = 20,
-            message = "Le code doit contenir entre {min} et {max} caract\u00E8res"
+            message = "Le code doit contenir entre {min} et {max} caractères"
           )
           final String code) {
 
